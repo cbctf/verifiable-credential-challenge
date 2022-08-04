@@ -19,14 +19,14 @@ In your browser, go to the docker playground service [Play with Docker](https://
 ITPSS's Instance
 
 ```bash
-git clone https://github.com/haziq-hamzani/verifiable-credential-challenge
+git clone https://github.com/cbctf/verifiable-credential-challenge
 cd verifiable-credential-challenge/demo
 LEDGER_URL=http://dev.greenlight.bcovrin.vonx.io ./run_demo itpss
 ```
 
 Holder's Instance
 ```bash
-git clone https://github.com/haziq-hamzani/verifiable-credential-challenge
+git clone https://github.com/cbctf/verifiable-credential-challenge
 cd verifiable-credential-challenge/demo
 LEDGER_URL=http://dev.greenlight.bcovrin.vonx.io ./run_demo holder
 ```
